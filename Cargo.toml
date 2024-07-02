@@ -1,5 +1,5 @@
 [package]
-name = "pkill"
+name = "killp"
 version = "0.1.0"
 edition = "2021"
 description = "A simple CLI tool to kill processes running on specified ports on Linux and macOS"
